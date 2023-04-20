@@ -1,6 +1,6 @@
 # PROJECT-Seoul_bike_visualization
 
-> > [visualization 강의](https://github.com/Chaewon-Leee/TIL/tree/main/ML/Visualization) 수강 이후, 데이터에 대해 가설을 세우고 이를 시각화로 증명하고자 함
+> [visualization 강의](https://github.com/Chaewon-Leee/TIL/tree/main/ML/Visualization) 수강 이후, 데이터에 대해 가설을 세우고 이를 시각화로 증명하고자 함
 
 - **Data info**
 
