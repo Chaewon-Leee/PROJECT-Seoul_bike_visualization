@@ -4,8 +4,8 @@
 
 - **Data info**
 
-  - 따릉이 (공공자전거) : [https://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do#](https://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do#)
-  - 강수량 : [https://data.kma.go.kr/stcs/grnd/grndRnList.do?pgmNo=69](https://data.kma.go.kr/stcs/grnd/grndRnList.do?pgmNo=69)
+  - [따릉이 (공공자전거)](https://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do#)
+  - [강수량](https://data.kma.go.kr/stcs/grnd/grndRnList.do?pgmNo=69)
 
 - **Features**
 
