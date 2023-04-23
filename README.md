@@ -2,6 +2,8 @@
 
 > [visualization 강의](https://github.com/Chaewon-Leee/TIL/tree/main/ML/Visualization) 수강 이후, 데이터에 대해 가설을 세우고 이를 시각화로 증명하고자 함
 
+- 기간 : 22.10.13 ~ 22.10.27
+
 - **Data info**
 
   - [따릉이 (공공자전거)](https://data.seoul.go.kr/dataList/OA-15245/F/1/datasetView.do#)
